@@ -1,4 +1,4 @@
-## CMPM 121 Counter Demo
+## CMPM 121 Counter
 
 This project is a simple web application that demonstrates interactive UI updates using TypeScript, Deno, and Vite. The page displays a counter and a button. Each time the button is clicked, the counter increases and updates on the page.
 
